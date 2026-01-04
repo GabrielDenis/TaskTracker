@@ -2,7 +2,7 @@
 
 A simple command-line interface (CLI) application to track and manage your tasks. Built with Python.
 
-**Project URL**: [https://github.com/GabrielDenis/task-tracker-cli](https://github.com/GabrielDenis/task-tracker-cli)
+**Project URL**: [https://github.com/GabrielDenis/TaskTracker](https://github.com/GabrielDenis/TaskTracker)
 
 ## Features
 

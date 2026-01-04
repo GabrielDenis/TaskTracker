@@ -1,1 +1,79 @@
-[{"id": 1, "description": "Comprar motita", "status": "todo", "createdAt": "2026-01-04T19:18:14.311853", "updatedAt": "2026-01-04T19:18:14.311853"}, {"id": 2, "description": "Buy groceries", "status": "todo", "createdAt": "2026-01-04T19:19:03.176017", "updatedAt": "2026-01-04T19:19:03.176017"}]
+[
+    {
+        "id": 1,
+        "description": "Comprar mucha motita",
+        "status": "done",
+        "createdAt": "2026-01-04T19:18:14.311853",
+        "updatedAt": "2026-01-04T19:46:11.612910"
+    },
+    {
+        "id": 2,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2026-01-04T19:19:03.176017",
+        "updatedAt": "2026-01-04T19:19:03.176017"
+    },
+    {
+        "id": 3,
+        "description": "Estudiar Python a fondo",
+        "status": "in-progress",
+        "createdAt": "2026-01-04T19:41:40.196116",
+        "updatedAt": "2026-01-04T19:46:11.626606"
+    },
+    {
+        "id": 4,
+        "description": "Estudiar Python a fondo",
+        "status": "done",
+        "createdAt": "2026-01-04T19:42:59.846275",
+        "updatedAt": "2026-01-04T19:46:11.640924"
+    },
+    {
+        "id": 5,
+        "description": "Estudiar Python a fondo",
+        "status": "in-progress",
+        "createdAt": "2026-01-04T19:46:11.525364",
+        "updatedAt": "2026-01-04T19:46:11.657897"
+    },
+    {
+        "id": 6,
+        "description": "Hacer ejercicio (30 mins)",
+        "status": "todo",
+        "createdAt": "2026-01-04T19:46:11.535556",
+        "updatedAt": "2026-01-04T19:46:11.535556"
+    },
+    {
+        "id": 7,
+        "description": "Leer un libro de ciencia ficcion",
+        "status": "todo",
+        "createdAt": "2026-01-04T19:46:11.545983",
+        "updatedAt": "2026-01-04T19:46:11.545983"
+    },
+    {
+        "id": 8,
+        "description": "Limpiar la casa",
+        "status": "todo",
+        "createdAt": "2026-01-04T19:46:11.561135",
+        "updatedAt": "2026-01-04T19:46:11.561135"
+    },
+    {
+        "id": 9,
+        "description": "Preparar una cena rica",
+        "status": "todo",
+        "createdAt": "2026-01-04T19:46:11.571302",
+        "updatedAt": "2026-01-04T19:46:11.571302"
+    },
+    {
+        "id": 10,
+        "description": "Llamar a la familia",
+        "status": "todo",
+        "createdAt": "2026-01-04T19:46:11.587361",
+        "updatedAt": "2026-01-04T19:46:11.587361"
+    },
+    {
+        "id": 11,
+        "description": "Practicar mas algoritmos",
+        "status": "todo",
+        "createdAt": "2026-01-04T19:46:11.601293",
+        "updatedAt": "2026-01-04T19:46:11.601293"
+    }
+]

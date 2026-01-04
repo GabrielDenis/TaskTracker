@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "description": "Comprar mucha motita",
+        "description": "Comprar mucha Coquita",
         "status": "done",
         "createdAt": "2026-01-04T19:18:14.311853",
         "updatedAt": "2026-01-04T19:46:11.612910"
@@ -15,14 +15,14 @@
     },
     {
         "id": 3,
-        "description": "Estudiar Python a fondo",
+        "description": "Estudiar C++ a fondo",
         "status": "in-progress",
         "createdAt": "2026-01-04T19:41:40.196116",
         "updatedAt": "2026-01-04T19:46:11.626606"
     },
     {
         "id": 4,
-        "description": "Estudiar Python a fondo",
+        "description": "Estudiar Java a fondo",
         "status": "done",
         "createdAt": "2026-01-04T19:42:59.846275",
         "updatedAt": "2026-01-04T19:46:11.640924"
